@@ -24,11 +24,19 @@
 
 ## Contents
 
-- [design-software](#design-software)
+- [Design Software](#design-software)
+- [JavaScript Frameworks](#javascript-frameworks)
 
 ## Design Software
 
 - [Macromedia Fireworks](https://en.wikipedia.org/wiki/Adobe_Fireworks) - The first good design tool built for the web (that slicing tho!)
+
+## JavaScript Frameworks
+
+Note: A lot of these frameworks are still being developed today. They might still be awesome, but [they used to too](https://www.youtube.com/watch?v=ndBjraV-3UY), and at the time they were _the_ tools.
+
+- [MooTools](https://mootools.net/) - A collection of JS utilities that was originally released as an extension of PrototypeJS.
+- [Prototype](http://prototypejs.org/) - Extended native JS objects to take (some of) the pain out of browser development. Originally released in 2005 as part of the foundation for Ajax support in Ruby on Rails ([source](https://en.wikipedia.org/wiki/Prototype_JavaScript_Framework)).
 
 ## License
 
