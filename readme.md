@@ -24,7 +24,7 @@
 
 ## Contents
 
-- [design-software](#design-software)
+- [Design Software](#design-software)
 
 ## Design Software
 
